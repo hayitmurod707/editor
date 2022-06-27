@@ -1,2 +1,0 @@
-# editor
-Editor (with tinymce)
